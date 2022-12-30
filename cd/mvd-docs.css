@@ -169,6 +169,17 @@ li {
     color: darkslategrey;
 
 }
+.a3 {
+    color: white;
+    line-height: 80px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 12px;
+    border: 1px solid #a89932;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #a89932;
+}
 li:hover {
     color: mediumvioletred;
 }
@@ -177,6 +188,16 @@ main {
 }
 .search {
     padding-left: 70px ;
+}
+.phone {
+    border: none;
+    border-radius: 6px;
+    color: #ff1800 ;
+    background-color: #ff1800;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+
 }
 button {
     border: none;
@@ -309,17 +330,6 @@ button {
     margin-left: -1px;
     cursor: pointer;
 }
-.a3 {
-    color: white;
-    line-height: 80px;
-    font-weight: 600;
-    text-decoration: none;
-    margin-left: 12px;
-    border: 1px solid #a89932;
-    border-radius: 5px;
-    padding: 5px;
-    background-color: #a89932;
-}
 .button2 {
    width: 80px;
     margin-top: -54px;
@@ -352,4 +362,13 @@ button {
 }
 button {
     cursor: pointer;
+}
+.first {
+    font-size: 28px; 
+    text-align:left ;
+    margin-bottom: 18px;
+    color: darkslategrey;
+}
+.docums {
+    margin-left: 300px;
 }
