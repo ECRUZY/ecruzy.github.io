@@ -287,9 +287,59 @@ button {
     width: 40px;
     height: 40px;
 }
+.button {
+    width: 40px;
+    height: 40px;
+    width: 30px;
+    margin-left: 3px;
+    height: 30px;
+    margin-top: -70px;
+    cursor: pointer;
+}
 .buttons {
     display: flex;
     margin-top: 50px;
-    margin-left: 300px
-    ;
+    margin-left: 300px;
+    cursor: pointer;
+
+}
+.button1 {
+    width: 80px;
+    height: 40px;
+    margin-top: -68px;
+    margin-left: -1px;
+    cursor: pointer;
+}
+.button2 {
+   width: 80px;
+    margin-top: -54px;
+    height: 75px;
+    margin-left: 61px;
+    cursor: pointer;
+}
+.button3 {
+    width: 40px;
+    height: 40px;
+    width: 30px;
+    margin-left: -2px;
+    height: 30px;
+    margin-top: -70px;
+    cursor: pointer;
+}
+.button4 {
+   width: 40px;
+    margin-top: -54px;
+    height: 30px;
+    margin-left: 86px;
+    cursor: pointer;
+}
+.button5 {
+    width: 50px;
+    height: 40px;
+    margin-left: -31px;
+    height: 35px;
+    margin-top: -67px;
+}
+button {
+    cursor: pointer;
 }
